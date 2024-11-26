@@ -2,8 +2,11 @@
 #Nov 26, 2024
 
 library(tidyverse)
-library(sf)
 
 dogs <- 1
 cats <- 1000
 hamsters <- -5000
+
+#always name the remote as origin
+#then branch is main
+#then checkout if get message main already exists
