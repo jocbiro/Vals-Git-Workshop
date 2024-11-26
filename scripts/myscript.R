@@ -3,3 +3,7 @@
 
 library(tidyverse)
 library(sf)
+
+dogs <- 1
+cats <- 1000
+hamsters <- -5000
